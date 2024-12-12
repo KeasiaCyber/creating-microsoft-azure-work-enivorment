@@ -39,6 +39,7 @@ We are going to create our resource group which is like a folder that holds thin
 
 <p>
 Finally, Lets create A storage account that will be our database that stores things like documents ,but in simple terms any data we put into it. Make sure to choose your resource group name, then name you storage account ,and make sure to choose your region and click the local option. Once created, we will be able to share files with other people on our subscriptions, but it can be used for many other things aswell.(See above photos)
+</p>
 
 <img src="https://imgur.com/aERYy0v.png" height="80%" width="80%" alt="Storage Acconnt Step 1"/>
 </p>
