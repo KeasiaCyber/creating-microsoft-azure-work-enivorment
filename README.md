@@ -21,7 +21,7 @@ This tutorial outlines how to create a microsoft azure work scenario.<br />
 <h2>Installation Steps</h2>
 
 <p>
-We are going to create our resource group which is like a folder that holds things like a storage account or other technological groups within microsoft azure. Click on resource group then name it, once that is done create it and it should bring you to the main menu of the resource tab.(See photos below)
+We are going to create our resource group which is like a folder that holds things like a storage account or other technological groups within microsoft azure. Click on resource group then name it, once that is done create it and it should bring you to the main menu of the resource tab.
 <img src="https://imgur.com/KU0Sk2L.png" height="80%" width="80%" alt="Resource group step 1"/>
 </p>
 <p>
