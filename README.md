@@ -1,9 +1,9 @@
-# creating-microsoft-azure-work-enivorment
+# creating-microsoft-azure-work-environment
 <p align="center">
 <img src="https://imgur.com/iqxPdaj.png" alt="LOGO"/>
 </p>
 
-<h1>Microsoft-Azure-Work-Enviorment - Prerequisites and Installation</h1>
+<h1>Microsoft-Azure-Work-Environment - Prerequisites and Installation</h1>
 This tutorial outlines how to create a microsoft azure work scenario.<br />
 
 <h2>Environments and Technologies Used</h2>
